@@ -1,0 +1,7 @@
+{
+  "name": "tabletapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
