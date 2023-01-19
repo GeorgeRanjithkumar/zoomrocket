@@ -1,0 +1,11 @@
+.failed{
+    color: red !important;
+}
+
+.pass{
+    color: greenyellow !important;
+}
+
+.notstarted{
+    color: rgb(148, 6, 6) !important;
+}

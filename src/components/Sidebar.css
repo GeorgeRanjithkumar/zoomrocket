@@ -1,0 +1,55 @@
+.ioncolmethod {
+    background: rgba(105, 111, 121, 0.04);
+    border-right: 1px solid rgba(105, 111, 121, 0.5);
+    color: 
+    #696F79
+    50%
+    #696F79
+    4% ;
+    text-align: center;
+  }
+.plers-Row{
+margin-top: 2rem;
+text-align: center;
+width: 39px;
+height: 15px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center !important;
+text-align: center !important;
+/* Grey */
+color: #696F79;
+}
+.tts-Row{
+margin-top: 2.5rem;
+text-align: center;
+width: 39px;
+height: 15px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center !important;
+text-align: center !important;
+/* Grey */
+color: #696F79;
+}
+.plers-title{
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+/* Black */
+color: #1B1819;
+}

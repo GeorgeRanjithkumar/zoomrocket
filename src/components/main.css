@@ -1,0 +1,80 @@
+.hashirama {
+    font-family: 'Rubik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 17px  !important;
+    letter-spacing: 0.02em !important;
+    /* Black */
+    color: #1B1819 !important;
+}
+
+.tobirama {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    /* Grey */
+    color: #696F79;
+}
+
+#hokage {
+    background: rgba(105, 111, 121, 0.03);
+    border-radius: 0px;
+    padding: 20px 24px 20px 24px;
+}
+
+#raikage {
+    border-radius: 0px;
+    padding: 20px 24px 20px 24px;
+    border-bottom: 1px solid rgba(105, 111, 121, 0.24);
+
+}
+
+#minimum {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    /* Grey */
+    color: #696F79;
+}
+
+#title{
+margin-left: -1rem;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+/* Black */
+color: #1B1819;
+}
+.button-native{
+    background: var(--background, none);
+    color: #696F79;
+}
+
+.button-native {
+    border-color: var(#696F79) !important;
+}
+
+.images{
+    width: max-content !important;
+}
+
+.pswp img {
+    max-width: none;
+    height: 20vw !important;
+    width: 30vw !important;
+}

@@ -1,0 +1,13 @@
+.toolbarvalue{
+    /* background: "#1B1819" !important; */
+    --background: var(--ion-toolbar-background, var(--ion-background-color, #1B1819));
+    color: white;
+}
+
+.toolbarvalue2{
+    /* background: "#1B1819" !important; */
+    --background: var(--ion-toolbar-background, var(--ion-background-color, #262223));
+    color: white;
+    margin-left: 1rem;
+}
+
